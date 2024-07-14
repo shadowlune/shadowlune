@@ -1,12 +1,11 @@
 ## Hello, my name is Matthew Au. 👋😊 
-I am a third year cybersecurity student at [Sheridan College](https://www.sheridancollege.ca/en/programs/bachelor-information-sciences-cyber-security).
+I am a fourth year cybersecurity student at [Sheridan College](https://www.sheridancollege.ca/en/programs/bachelor-information-sciences-cyber-security).
 
 ## I am currently working on 🛠️
 Docker Containers with Portainer
 - [Raspberry Pi Home Server](https://www.github.com/shadowlune/homelab)
 
 ## Reach out and connect with me 📫
-- [Twitter](https://twitter.com/shadowlune)
 - [Linkedin](https://linkedin.com/in/aumatt)
 - [Email](mailto:au.matthew@outlook.com)
 
